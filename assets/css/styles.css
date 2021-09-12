@@ -1,1 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: 'Space Mono', Courier, monospace;
+}
+
+header{
+    width: 100vw;
+    min-height: fit-content;
+
+}
+
+.logo{
+    padding:40px 77px
+}
+
+@media screen and (max-width: 800px) {
+    .logo{
+        padding:20px 24px
+    }
+    
+}
