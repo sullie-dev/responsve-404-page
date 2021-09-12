@@ -18,10 +18,8 @@ header{
 
 .logo{
     font-family: Inconsolata, Courier, monospace;
-    padding:40px 77px
+    padding:40px
 }
-
-
 @media screen and (max-width: 800px) {
     .logo{
         padding:20px 24px
