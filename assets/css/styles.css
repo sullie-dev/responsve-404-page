@@ -36,7 +36,7 @@ section {
   float: left;
 }
 
-#info h1 {
+#info h2 {
   font-weight: 700;
   font-size: 4rem;
 }
@@ -103,7 +103,7 @@ footer {
     margin-bottom: 24px;
   }
 
-  #info h1 {
+  #info h2 {
     font-size: 3rem;
   }
 
